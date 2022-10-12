@@ -1,4 +1,6 @@
-def main():
-	print("Hello World!")
+def greet():
+	print("What is your name?")
+	i = input()
+	...
 
-main()
+greet()
